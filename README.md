@@ -6,7 +6,7 @@ Yüksek okuma ve yazma hızına sahip NVME M.2 SSD'ler en iyi performansı
 verecektir. Sata SSD'ler ikinci seçenek olarak kullanılabilir. Genelde hızları
 NVME M.2 SSD'ler kadar yüksek değildir. HDD'ler üçüncül tercihiniz olabilir.
 Tek şansınız bu ise yine de eklemekte yarar olabilir. Taşınabilir cihazlar
-bağlantı kopma ihtimalie karşı en son tercihiniz olmalıdır.
+bağlantı kopma ihtimaline karşı en son tercihiniz olmalıdır.
 
 ## Ram ve Swap Performans Karşılaştırması
 
@@ -81,7 +81,7 @@ mkswap /swapfile
 ### Swap Dosyasını Tek Seferlik Aktif Etme
 
 Tek seferlik bunu yapıyoruz çünkü otomatik olarak aktif etme konfigürasyonunu
-yazptığımızda yeniden başlatmadan swap aktif olmayacak.
+yaptığımızda yeniden başlatmadan swap aktif olmayacak.
 
 ```sh
 swapon /swapfile
