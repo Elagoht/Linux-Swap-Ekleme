@@ -54,7 +54,7 @@ Benim durumumda bu alan 25165824 olacaktır.
 
 ## Dosyayı Oluşturma
 
-Aşağıdaki komutla `24 GB` boyutunda, (girdi dosyası `/dev/zero` olduğu için) 0
+Aşağıdaki komut `24 GB` boyutunda, (girdi dosyası `/dev/zero` olduğu için) 0
 bitleri ile dolu `/swapfile` dosyasını oluşturur.
 
 ```sh
